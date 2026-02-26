@@ -42,7 +42,7 @@ An advanced AI chatbot powered by **LangGraph, FastAPI, Streamlit, and OpenAI**,
 
 ### 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/13Ananya/Agentic_ChatBot_with_FastAPI.git  
+git clone https://github.com/Shivrathor01/Agentic_ChatBot_with_FastAPI.git  
 cd Agentic_ChatBot_with_FastAPI
 ```
 
